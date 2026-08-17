@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "layers": [
+    {
+      "name": "base",
+      "package": "helix",
+      "ecosystem": null,
+      "resolvedVersion": "0.1.0",
+      "via": null,
+      "hash": "0x6883da335b415f9d"
+    },
+    {
+      "name": "self",
+      "package": null,
+      "ecosystem": null,
+      "resolvedVersion": null,
+      "via": null,
+      "hash": "0x00652e682e26e2e2"
+    }
+  ],
+  "claude": {
+    "claudeMdInclude": null
+  },
+  "baseVersion": "0.1.0",
+  "baseHash": "0x6883da335b415f9d",
+  "hash": null,
+  "instances": [
+    {
+      "path": "doc/en/guides/blog-guide.md",
+      "hash": "0x22a7df347812b214"
+    },
+    {
+      "path": "doc/templates/blog-template-de.md",
+      "hash": "0xbf8f865452c5774f"
+    },
+    {
+      "path": "doc/templates/blog-template-en.md",
+      "hash": "0xc7fca01a019018b2"
+    }
+  ]
+}
