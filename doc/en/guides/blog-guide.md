@@ -1,6 +1,6 @@
 <!--
 @license
-Copyright (c) dnaCopyrightHolder
+Copyright (c) ggsuite
 
 Use of this source code is governed by terms that can be
 found in the LICENSE file in the root of this package.
@@ -21,7 +21,7 @@ found in the LICENSE file in the root of this package.
 
 ## Copy the template
 
-- Create a year folder `blog/de|en/dnaYear`, if not present
+- Create a year folder `blog/de|en/2026`, if not present
 - Come up with a summarizing title for the ticket
 - Translate the title into English and derive a file name title from it
 - Copy `doc/templates/blog-template-de|en.md` to `<yyyy>-<mm>-<dd>-title-en-kebab-case`
@@ -35,7 +35,7 @@ found in the LICENSE file in the root of this package.
 - Write longer for complex tickets
 - Wrap lines at 80 characters
 - Embed mermaid diagrams when needed
-- Use mermaid dnaMermaidMarkdownBlock markdown blocks
+- Use mermaid ``` markdown blocks
 
 ## Translation
 
