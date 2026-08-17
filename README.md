@@ -15,7 +15,7 @@ The DNA layer that turns every finished ticket into a blog post.
 Declare it as a dev-dependency and initialize once:
 
 ```bash
-pnpm add -D @tssuite/dna-blog   # TypeScript projects
+pnpm add -D @ggdna/dna-blog   # TypeScript projects
 dart pub add dev:dna_blog    # Dart projects
 helix init
 ```
