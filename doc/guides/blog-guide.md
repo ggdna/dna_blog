@@ -21,7 +21,8 @@ found in the LICENSE file in the root of this package.
 
 ## Copy the template
 
-- Create a year folder `blog/de|en/2026`, if not present
+- Create a year folder `blog/2026` for English posts, if not present
+- Create a year folder `blog/de/2026` for German posts, if not present
 - Come up with a summarizing title for the ticket
 - Translate the title into English and derive a file name title from it
 - Copy `doc/templates/blog-template-de|en.md` to `<yyyy>-<mm>-<dd>-title-en-kebab-case`

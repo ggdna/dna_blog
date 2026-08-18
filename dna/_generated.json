@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xfa9223bfc18092d5"
+      "hash": "0x25260b7a3591fb58"
     }
   ],
   "claude": {
@@ -27,7 +27,7 @@
   "instances": [
     {
       "path": "doc/guides/blog-guide.md",
-      "hash": "0x5c632bb5d0d345fe"
+      "hash": "0x22aaaee420af6fe6"
     },
     {
       "path": "doc/templates/blog-template-de.md",
