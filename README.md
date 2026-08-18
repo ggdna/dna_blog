@@ -4,7 +4,7 @@ The DNA layer that turns every finished ticket into a blog post.
 
 ## Content
 
-- `dna/doc/en/guides/blog-guide.md` — language, naming and content of a
+- `dna/doc/guides/blog-guide.md` — language, naming and content of a
   post
 - `dna/doc/templates/blog-template-en.md`,
   `dna/doc/templates/blog-template-de.md` — the post structure in both

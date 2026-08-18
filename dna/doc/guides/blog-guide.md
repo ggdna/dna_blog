@@ -39,4 +39,4 @@ found in the LICENSE file in the root of this package.
 
 ## Translation
 
-- Have a look into the [Multi Language Guide](doc/en/guides/multi-language-guide.md)
+- Have a look into the [Multi Language Guide](doc/guides/multi-language-guide.md)
