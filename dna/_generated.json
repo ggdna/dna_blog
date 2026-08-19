@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xc4a26244355cbd5f"
+      "hash": "0x02702c792e7422a1"
     }
   ],
   "claude": {
@@ -24,6 +24,10 @@
   "baseVersion": "0.2.0",
   "baseHash": "0x705e486e88a93125",
   "instances": [
+    {
+      "path": ".claude/skills/blog/SKILL.md",
+      "hash": "0xaa8c556ad7ace267"
+    },
     {
       "path": "doc/guides/blog-guide.md",
       "hash": "0x700c267d07f19da7"
