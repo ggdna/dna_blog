@@ -164,10 +164,11 @@ packages:
   helix:
     dependency: "direct dev"
     description:
-      path: "../helix"
-      relative: true
-    source: path
-    version: "0.2.0"
+      name: helix
+      sha256: "4a3b27eda39341c5eb0d3c503cba3e787258a1ea126787018612394b0171edf0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   http_multi_server:
     dependency: transitive
     description:
