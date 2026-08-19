@@ -1,6 +1,6 @@
 name: dna_blog
 description: "DNA layer: the blog guide and the blog post templates for tickets"
-version: 0.0.0
+version: 0.1.0
 repository: https://github.com/ggdna/dna_blog.git
 
 environment:
