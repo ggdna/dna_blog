@@ -1,6 +1,6 @@
 {
   "name": "@ggdna/dna-blog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "DNA layer: the blog guide and the blog post templates for tickets",
   "keywords": [
     "dna",
