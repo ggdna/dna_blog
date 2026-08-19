@@ -36,5 +36,5 @@ found in the LICENSE file in the root of this package.
 
 - This guide writes english posts only
 - Posts in other languages are the job of the
-  [Multi Language Guide](doc/guides/multi-language-guide.md)
+  [Translate Guide](doc/guides/translate-guide.md)
 - Write english only, if that guide does not exist
