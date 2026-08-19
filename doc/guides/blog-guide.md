@@ -14,19 +14,12 @@ found in the LICENSE file in the root of this package.
 - Create a blog post before publishing
 - Follow the [Publish Guide](./publish-guide.md) if it exists
 
-## Choose the language of the prompt
-
-- When the prompt is in English, write a German blog post
-- Otherwise write in English
-
 ## Copy the template
 
-- Create a year folder `blog/2026` for English posts, if not present
-- Create a year folder `blog/de/2026` for German posts, if not present
-  (if multi-language-guide.md exists)
+- Create a year folder `blog/2026`, if not present
 - Come up with a summarizing title for the ticket
-- Translate the title into English and derive a file name title from it
-- Copy `doc/templates/blog-template-de|en.md` to `<yyyy>-<mm>-<dd>-title-en-kebab-case`
+- Derive a file name title from it, in english kebab case
+- Copy `doc/templates/blog-template.md` to `<yyyy>-<mm>-<dd>-title-en-kebab-case`
 
 ## Content
 
@@ -39,7 +32,9 @@ found in the LICENSE file in the root of this package.
 - Embed mermaid diagrams when needed
 - Use mermaid ``` markdown blocks
 
-## Translation
+## Other languages
 
-- Have a look into the [Multi Language Guide](doc/guides/multi-language-guide.md)
-- if a multi-language-guide.md does not exist, do not translate the blogs
+- This guide writes english posts only
+- Posts in other languages are the job of the
+  [Multi Language Guide](doc/guides/multi-language-guide.md)
+- Write english only, if that guide does not exist

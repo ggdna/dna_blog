@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x02702c792e7422a1"
+      "hash": "0x814851ad6a2a5f45"
     }
   ],
   "claude": {
@@ -30,18 +30,14 @@
     },
     {
       "path": "doc/guides/blog-guide.md",
-      "hash": "0x700c267d07f19da7"
+      "hash": "0xb6fdf494ca84b70b"
     },
     {
       "path": "doc/hello_world.md",
       "hash": "0x0903f7fc5224f6f1"
     },
     {
-      "path": "doc/templates/blog-template-de.md",
-      "hash": "0x4f48f2db12a5ca19"
-    },
-    {
-      "path": "doc/templates/blog-template-en.md",
+      "path": "doc/templates/blog-template.md",
       "hash": "0x72f96f22e4ee4851"
     }
   ]
