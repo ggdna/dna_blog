@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_blog` package.
-const String dnaBlogVersion = '0.1.1';
+const String dnaBlogVersion = '0.1.2';
