@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x2aafe5211ebd4365"
+      "hash": "0x49bf0909e92d37bb"
     }
   ],
   "claude": {
@@ -27,15 +27,15 @@
   "instances": [
     {
       "path": ".claude/skills/blog/SKILL.md",
-      "hash": "0xaa8c556ad7ace267"
+      "hash": "0xee53d64ce8c0dd1f"
     },
     {
       "path": "doc/guides/blog-guide.md",
-      "hash": "0x3f3325c5c29dbdc5"
+      "hash": "0xd1366e3383701d0e"
     },
     {
       "path": "doc/templates/blog-template.md",
-      "hash": "0x72f96f22e4ee4851"
+      "hash": "0x1a873a9f7492c75c"
     }
   ]
 }

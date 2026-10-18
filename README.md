@@ -4,8 +4,8 @@ The DNA layer that says how a ticket becomes a blog post.
 
 ## Guides
 
-- `dna/doc/guides/blog-guide.md` — when a post is due, where it is filed
-  and what it contains
+- `dna/doc/guides/blog-guide.md` — which repos of a ticket get a post,
+  what a post may contain, where it is filed (`doc/blog/<yyyy>`)
 
 ## Templates
 
@@ -27,7 +27,6 @@ ships the german template.
 ## Variables
 
 - `dnaCopyrightHolder` — the name in the license header of every file
-- `dnaYear` — the year folder posts are filed under
 - `dnaMermaidMarkdownBlock` — the fence a mermaid diagram is wrapped in
 
 ## Usage
