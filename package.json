@@ -1,7 +1,7 @@
 {
   "name": "@ggdna/dna-blog",
   "version": "0.3.0",
-  "description": "DNA layer: the blog guide and the blog post templates for tickets",
+  "description": "Gives a repo the rules and the template to write a blog post for every ticket, and a skill that writes it.",
   "keywords": [
     "dna",
     "helix",
