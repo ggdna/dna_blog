@@ -5,7 +5,8 @@ The DNA layer that says how a ticket becomes a blog post.
 ## Guides
 
 - `dna/doc/guides/blog-guide.md` — which repos of a ticket get a post,
-  what a post may contain, where it is filed (`doc/blog/<yyyy>`)
+  what a post may contain, where it is filed (`doc/blog/<yyyy>`, in a
+  project management repo `doc/<yyyy>-Q<n>/blog`)
 
 ## Templates
 
