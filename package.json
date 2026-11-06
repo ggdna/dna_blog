@@ -1,6 +1,6 @@
 {
   "name": "@ggdna/dna-blog",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "DNA layer: the blog guide and the blog post templates for tickets",
   "keywords": [
     "dna",
@@ -35,7 +35,7 @@
     "format:check": "prettier --check ."
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "prettier": "^3.9.10"
   }
 }
