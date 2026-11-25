@@ -18,6 +18,12 @@ The DNA layer that says how a ticket becomes a blog post.
 - `/blog` — reports whether the current ticket still needs a post, and
   writes it
 
+## Publishing
+
+`dna/dot-pubignore` keeps `/doc/guides/` and `/doc/templates/` out of the
+package `dart pub publish` uploads. helix joins it with the ignore files of the
+other layers into the project's `.pubignore`.
+
 ## Layers
 
 Orthogonal: this layer carries only its own topic and is combined with
