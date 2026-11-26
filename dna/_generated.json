@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.16.0",
+      "resolvedVersion": "1.18.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xfcd556a28307b016"
+      "hash": "0xc345e17cd58e47f9"
     }
   ],
   "claude": {
@@ -23,25 +23,42 @@
     "claudeMdFromDna": false,
     "blockHash": null
   },
-  "baseVersion": "1.16.0",
+  "baseVersion": "1.18.0",
   "baseHash": "0x6883da335b415f9d",
   "configHash": "0x0d4ac600e4df748f",
+  "gitignoreHash": "0x1b0ee74d5e941279",
   "instances": [
     {
       "path": ".claude/skills/blog/SKILL.md",
-      "hash": "0x9d2d2f0547050310"
+      "hash": "0xdf596ff282003259"
     },
     {
       "path": ".pubignore",
-      "hash": "0xf54303d9193038d4"
+      "hash": "0xf3b26f78b7b8fe1a"
     },
     {
-      "path": "doc/guides/blog-guide.md",
-      "hash": "0xfa9311e1e843de59"
+      "path": "doc/de/guides/blog-guide.md",
+      "hash": "0x529c70c19a7dce4b"
     },
     {
-      "path": "doc/templates/blog-template.md",
+      "path": "doc/de/templates/blog-template.md",
+      "hash": "0xee9f49bb1a1dbd80"
+    },
+    {
+      "path": "doc/en/guides/blog-guide.md",
+      "hash": "0x826687fbba018a56"
+    },
+    {
+      "path": "doc/en/templates/blog-template.md",
       "hash": "0x1a873a9f7492c75c"
+    },
+    {
+      "path": "doc/fa/guides/blog-guide.md",
+      "hash": "0xbcc18e6aa03180ea"
+    },
+    {
+      "path": "doc/fa/templates/blog-template.md",
+      "hash": "0x617358fa924e48e0"
     }
   ]
 }
