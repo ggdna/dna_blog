@@ -27,15 +27,13 @@ found in the LICENSE file in the root of this package.
 
 ## @template Copy the template
 
-- Create a year folder `doc/blog/<yyyy>`, if not present. A project
-  management repo files its posts in the current quarter folder instead:
-  `doc/<yyyy>-Q<n>/blog`, see its PM repo guide
+- File the post in the quarter folder of the day the ticket is finished:
+  `pm/<lang>/<yyyy>-Q<n>/blog`, `<lang>` being the leading language of the
+  repo; create the folder if it is not present
 - Come up with a summarizing title for the ticket
 - Derive a file name title from it, in english kebab case
-- Copy `doc/templates/blog-template.md` to
-  `doc/blog/<yyyy>/<yyyy>-<mm>-<dd>-<title-in-english-kebab-case>.md`,
-  in a project management repo to
-  `doc/<yyyy>-Q<n>/blog/<yyyy>-<mm>-<dd>-<title-in-english-kebab-case>.md`
+- Copy `doc/<lang>/templates/blog-template.md` to
+  `pm/<lang>/<yyyy>-Q<n>/blog/<yyyy>-<mm>-<dd>-<title-in-english-kebab-case>.md`
 
 ## @content Content
 
@@ -50,7 +48,8 @@ found in the LICENSE file in the root of this package.
 
 ## @languages Other languages
 
-- This guide writes english posts only
-- Posts in other languages are the job of the
-  [Translate Guide](./translate-guide.md)
-- Write english only, if that guide does not exist
+- Write the post in the leading language of the repo first; the
+  languages of the repo, leading one first, are `dnaLanguages`
+- Translate it into the other languages with the
+  [Translate Guide](./translate-guide.md): same file name, under
+  `pm/<lang>/<yyyy>-Q<n>/blog` of each language

@@ -4,13 +4,21 @@ The DNA layer that says how a ticket becomes a blog post.
 
 ## Guides
 
-- `dna/doc/guides/blog-guide.md` — which repos of a ticket get a post,
-  what a post may contain, where it is filed (`doc/blog/<yyyy>`, in a
-  project management repo `doc/<yyyy>-Q<n>/blog`)
+- `dna/doc/en/guides/blog-guide.md` — which repos of a ticket get a post,
+  what a post may contain, where it is filed
+  (`pm/<lang>/<yyyy>-Q<n>/blog`)
+
+Every file of `dna/doc/en/` also ships in German and Farsi, with the
+same name:
+
+- `dna/doc/de/guides/`
+- `dna/doc/de/templates/`
+- `dna/doc/fa/guides/`
+- `dna/doc/fa/templates/`
 
 ## Templates
 
-- `dna/doc/templates/blog-template.md` — the structure of an english blog
+- `dna/doc/en/templates/blog-template.md` — the structure of an english blog
   post
 
 ## Skills
@@ -20,7 +28,7 @@ The DNA layer that says how a ticket becomes a blog post.
 
 ## Publishing
 
-`dna/dot-pubignore` keeps `/doc/guides/` and `/doc/templates/` out of the
+`dna/dot-pubignore` keeps `/doc/*/guides/` and `/doc/*/templates/` out of the
 package `dart pub publish` uploads. helix joins it with the ignore files of the
 other layers into the project's `.pubignore`.
 
