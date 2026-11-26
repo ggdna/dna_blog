@@ -8,13 +8,13 @@ found in the LICENSE file in the root of this package.
 
 # Blog Guide
 
-## Know which repos get a post
+## @repos Know which repos get a post
 
 - Every repo of a ticket that has this guide gets its own post
 - Write the post before publishing
 - Follow the [Publish Guide](./publish-guide.md) if it exists
 
-## Keep the post to this repo
+## @scope Keep the post to this repo
 
 - Write from the view of this repo alone
 - Describe only what changed in this repo
@@ -25,7 +25,7 @@ found in the LICENSE file in the root of this package.
 - Reference tickets and plans only if they belong to the organization of
   this repo
 
-## Copy the template
+## @template Copy the template
 
 - Create a year folder `doc/blog/<yyyy>`, if not present. A project
   management repo files its posts in the current quarter folder instead:
@@ -37,7 +37,7 @@ found in the LICENSE file in the root of this package.
   in a project management repo to
   `doc/<yyyy>-Q<n>/blog/<yyyy>-<mm>-<dd>-<title-in-english-kebab-case>.md`
 
-## Content
+## @content Content
 
 - Follow the structure of the copied template
 - Summarize the why, the how as well as the result
@@ -48,7 +48,7 @@ found in the LICENSE file in the root of this package.
 - Embed mermaid diagrams when needed
 - Use mermaid dnaMermaidMarkdownBlock markdown blocks
 
-## Other languages
+## @languages Other languages
 
 - This guide writes english posts only
 - Posts in other languages are the job of the
