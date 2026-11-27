@@ -33,7 +33,7 @@ found in the LICENSE file in the root of this package.
 
 - `dna/dot-pubignore` lists `/doc/guides/` and `/doc/templates/`
 - The `dot-` escape keeps the file in the published layer: `dart pub
-  publish` drops every path with a leading dot
+publish` drops every path with a leading dot
 - In this repo the engine instantiates it as `.pubignore`, starting with
   the lines of `.gitignore`, followed by the section `# dna_blog`
 - `dart pub publish --dry-run` now lists neither `doc/guides/` nor
